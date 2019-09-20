@@ -6,4 +6,4 @@ This is a face-recognition website. By proividing an image link, it detects the 
 
 Built using React and Clarifai API.
 
-The repository for backend is [here](https://github.com/rffffy/smart-brain-api)
+The backend API is built using Node.js and Express. The repository is [here](https://github.com/rffffy/smart-brain-api)
